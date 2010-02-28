@@ -17,9 +17,6 @@
 
 <resources>
     <string-array name="extra_wallpapers">
-        <item>wallpaper_skate</item>
-        <item>wallpaper_cyan</item>
-        <item>wallpaper_cyan_green</item>
         <item>wallpaper_0008</item>
         <item>wallpaper_0013</item>
         <item>wallpaper_bluedotgrid</item>
