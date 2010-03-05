@@ -19,6 +19,7 @@
     <string-array name="extra_wallpapers">
         <item>wallpaper_0008</item>
         <item>wallpaper_0013</item>
+	<item>wallpaper_blue2</item>
         <item>wallpaper_bluedotgrid</item>
         <item>wallpaper_bossa</item>
         <item>wallpaper_brown</item>
